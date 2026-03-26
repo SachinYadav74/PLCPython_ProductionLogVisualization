@@ -1,0 +1,37 @@
+{
+    "Station 1": {
+        "station Number": 1,
+        "total_parts": 1015,
+        "ok_parts": 744,
+        "nok_parts": 271,
+        "avg_cycle_time": 3.54679799079895
+    },
+    "Station 2": {
+        "station Number": 2,
+        "total_parts": 944,
+        "ok_parts": 646,
+        "nok_parts": 298,
+        "avg_cycle_time": 3.8135592937469482
+    },
+    "Station 3": {
+        "station Number": 3,
+        "total_parts": 305,
+        "ok_parts": 229,
+        "nok_parts": 76,
+        "avg_cycle_time": 11.803278923034668
+    },
+    "Station 4": {
+        "station Number": 4,
+        "total_parts": 911,
+        "ok_parts": 663,
+        "nok_parts": 248,
+        "avg_cycle_time": 3.9517014026641846
+    },
+    "Station 5": {
+        "station Number": 5,
+        "total_parts": 892,
+        "ok_parts": 595,
+        "nok_parts": 297,
+        "avg_cycle_time": 4.035874366760254
+    }
+}
